@@ -11,4 +11,9 @@ public class Test01 {
 	public static void t1(){
 		System.out.println(1233);
 	}
+	
+	
+	public static void t1(){
+		System.out.println(122);
+	}
 }
