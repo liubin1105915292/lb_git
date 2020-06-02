@@ -16,5 +16,7 @@ public class Test01 {
 		System.out.println(222);
 	}
 	
-	
+	public static void t3(){
+		System.out.println(333);
+	}
 }
