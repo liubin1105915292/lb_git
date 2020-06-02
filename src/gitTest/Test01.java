@@ -9,6 +9,12 @@ public class Test01 {
 	
 	
 	public static void t1(){
-		System.out.println(1233);
+		System.out.println(1111);
 	}
+	
+	public static void t2(){
+		System.out.println(222);
+	}
+	
+	
 }
